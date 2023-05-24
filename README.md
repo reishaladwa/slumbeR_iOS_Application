@@ -1,6 +1,7 @@
 # slumbeR_iOS_Application
 This iOS application helps users track their sleep cycle and provides personalized health recommendations.
 
+<img width="1191" alt="Screenshot 2023-05-24 at 10 24 08 AM" src="https://github.com/reishaladwa/slumbeR_iOS_Application/assets/86329309/f87c0ef0-dc80-4344-9d49-ba8e242eebb7">
 <img width="1113" alt="Screenshot 2023-05-24 at 10 20 43 AM" src="https://github.com/reishaladwa/slumbeR_iOS_Application/assets/86329309/eeeeaeae-b84e-45bb-b387-97af7f9cbc17">
 <img width="1103" alt="Screenshot 2023-05-24 at 10 20 53 AM" src="https://github.com/reishaladwa/slumbeR_iOS_Application/assets/86329309/1b225043-42a3-4d3e-86e0-a55a2ddec0ff">
 <img width="1103" alt="Screenshot 2023-05-24 at 10 21 11 AM" src="https://github.com/reishaladwa/slumbeR_iOS_Application/assets/86329309/fc586bbf-79c3-455c-8785-643e9c341890">
